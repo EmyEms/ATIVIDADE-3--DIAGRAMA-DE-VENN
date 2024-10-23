@@ -78,9 +78,9 @@ Explicação: Ana não vai à festa, mas como Bruno traz música, a festa será 
 
 O diagrama de Venn a seguir ilustra as condições lógicas da situação da festa. As proposições \(P\), \(Q\), \(M\) e \(R\) estão representadas pelas interseções dos conjuntos.
 
-![Diagrama de Venn]()
+![Diagrama de Venn](https://raw.githubusercontent.com/EmyEms/ATIVIDADE-3--DIAGRAMA-DE-VENN/refs/heads/main/DIAGRAMA.jpeg)
 
 Você também pode visualizar o diagrama completo no **GeoGebra** através do seguinte link:
 
-[Link para o GeoGebra](https://www.geogebra.org/classic)
+[Link para o GeoGebra](https://www.geogebra.org/calculator/gvveazh5)
 
